@@ -1,5 +1,3 @@
-
-
 # 🔒 PassGen - Secure Password Generator
 
 A sleek and responsive password generator built with **React** and **Tailwind CSS** that allows users to generate strong, customizable passwords with ease.
@@ -28,6 +26,12 @@ A sleek and responsive password generator built with **React** and **Tailwind CS
 
 ---
 
+## 🔗 Live Demo Link
+
+- [Click Here](https://pass-gen-one-kappa.vercel.app/)
+
+---
+
 ## 📸 Screenshot
 
 ![App Screenshot](./public/screenshot.png)
@@ -46,12 +50,11 @@ A sleek and responsive password generator built with **React** and **Tailwind CS
 
 ## 👨‍💻 Author
 
-* Swaraj Unde
-* GitHub: [@swaraj-unde](https://github.com/swaraj-unde)
+- Swaraj Unde
+- GitHub: [@swaraj-unde](https://github.com/swaraj-unde)
 
 ---
 
 ## 📄 License
 
 This project is open source and free to use.
-
